@@ -1,0 +1,62 @@
+{
+    "oguzhan": 
+      {
+        "name": "Oğuzhan Yıldız",
+        "description": "oguzhan Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+        "image":"/img/oguzhan.jpg",
+        "image2":"/img/oguzhan2.png",
+        "area":"Game Developer",
+        "projects":[
+          {
+           "name":"pr1"
+          },
+          {
+           "name":"pr2"
+          },
+          {
+           "name":"pr3"
+          }
+        ]
+      }
+    ,
+    "mansur": 
+      {
+        "name": "Mansur Besleney",
+        "description": "mansur Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+        "image":"/img/mansur.jpg",
+        "image2":"/img/mansur2.jpeg",  
+        "area":"Game Developer",
+        "projects":[
+          {
+           "name":"pr1"
+          },
+          {
+           "name":"pr2"
+          },
+          {
+           "name":"pr3"
+          }
+        ]
+      }
+    ,
+    "yasin": 
+      {
+        "name": "Muhammed Yasin Erzurumluoğlu",
+        "description": "yasin Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+        "image":"/img/yasin.jpeg",
+        "image2":"/img/yasin2.jpg", 
+        "area":"Game Artist",
+        "projects":[
+          {
+           "name":"pr1"
+          },
+          {
+           "name":"pr2"
+          },
+          {
+           "name":"pr3"
+          }
+        ]
+      }
+    
+  }
