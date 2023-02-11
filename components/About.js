@@ -37,9 +37,9 @@ function About({data}){
       </motion.div>
       <div className="space-y-10 px-0 md:px-10">
         <h4 className="text-4xl font-semibold">
-          Here is a{' '}
-          <span className="underline decoration-[#F7AB0A]/60">little</span>{' '}
-          background
+          Who {' '}
+          <span className="underline decoration-[#F7AB0A]/60">am</span>{' '}
+          I ?
         </h4>
         <p className="text-base">
          {data.description}

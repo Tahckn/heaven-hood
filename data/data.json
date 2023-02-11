@@ -2,7 +2,7 @@
     "oguzhan": 
       {
         "name": "Oğuzhan Yıldız",
-        "description": "oguzhan Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+        "description": "I am a highly motivated and creative individual with a passion for game production. I have completed a degree in computer programming with an excellent grade and have already gained experience in developing my own games. With my strong technical skills and artistic eye, I am confident in my ability to contribute to any game production team. I have been developing games for several years now and have honed my skills in game design, programming, and project management. I am eager to bring my skills and passion to a company that is dedicated to game production and innovation in the industry. I am excited to continue learning and growing in the field and am confident that I would be a valuable asset to any team.",
         "image":"/img/oguzhan.jpg",
         "image2":"/img/oguzhan2.png",
         "area":"Game Developer",
@@ -15,21 +15,26 @@
           },
           {
            "name":"Atlas",
-           "image":"/img/atlas.jpg",
+           "image":"/img/Atlaspicv2.jpg",
            "link":"https://github.com/oguzhan00yildiz/Atlas-2D-Tower-Build-Mobile-Game"
           },
           {
            "name":"Starship",
            "image":"/img/starship.jpg",
            "link":"https://github.com/oguzhan00yildiz/StarShip-3D-Mobile-Game"
-          }
+          },
+          {
+            "name":"TankBattle",
+            "image":"/img/TankBattlepic.jpg",
+            "link":"https://github.com/oguzhan00yildiz/Tank-Battle-2D-Mobile-Game"
+           }
         ]
       }
     ,
     "mansur": 
       {
         "name": "Mansur Besleney",
-        "description": "mansur Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+        "description": "I'm an highly motivated and enthusiastic computer engineering student with a passion for game development. With experience in various software concepts and programming languages, I am eager to apply my skills to the creation of engaging and entertaining games. As a senior student, I have developed strong problem-solving and critical thinking abilities, making me well-equipped to tackle any challenges that come my way in the gaming industry. My goal is to continue growing as a game developer and make a meaningful impact in the field.",
         "image":"/img/mansur.jpg",
         "image2":"/img/mansur2.jpeg",  
         "area":"Game Developer",
@@ -41,22 +46,17 @@
            "link":"https://github.com/oguzhan00yildiz/Count-Masters--Stickman-Games-Clone-"
           },
           {
-           "name":"Atlas",
-           "image":"/img/atlas.jpg",
-           "link":"https://github.com/oguzhan00yildiz/Atlas-2D-Tower-Build-Mobile-Game"
-          },
-          {
-           "name":"Starship",
-           "image":"/img/starship.jpg",
-           "link":"https://github.com/oguzhan00yildiz/StarShip-3D-Mobile-Game"
-          }
+            "name":"OPG",
+            "image":"/img/OPGpic.jpg",
+            "link":"https://github.com/MansurBesleney/OPG2022UnityProject"
+           }
         ]
       }
     ,
     "yasin": 
       {
         "name": "Muhammed Yasin Erzurumluoğlu",
-        "description": "yasin Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+        "description": "Highly creative and motivated game artist with extensive experience in visual design and UI/UX design for games. Adept in using Photoshop for creating visually stunning designs and Blender for 3D modeling. Passionate about the game development industry and eager to bring innovation and creativity to each project. Strong communication skills and ability to work in a fast-paced, team-oriented environment. Committed to delivering high-quality, impactful work that exceeds expectations and contributes to the success of the project.",
         "image":"/img/yasin.jpeg",
         "image2":"/img/yasin2.jpg", 
         "area":"Game Artist",
@@ -69,13 +69,8 @@
           },
           {
            "name":"Atlas",
-           "image":"/img/atlas.jpg",
+           "image":"/img/Atlaspicv2.jpg",
            "link":"https://github.com/oguzhan00yildiz/Atlas-2D-Tower-Build-Mobile-Game"
-          },
-          {
-           "name":"Starship",
-           "image":"/img/starship.jpg",
-           "link":"https://github.com/oguzhan00yildiz/StarShip-3D-Mobile-Game"
           }
         ]
       }
