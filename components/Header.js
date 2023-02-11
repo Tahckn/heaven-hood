@@ -23,12 +23,7 @@ function Header({data}) {
       >
         {/* //* Social Icons */}
         <SocialIcon
-          url="https://twitter.com/tahckn"
-          fgColor="gray"
-          bgColor="transparent"
-        />
-        <SocialIcon
-          url="https://github.com/Tahckn"
+          url="https://github.com/oguzhan00yildiz"
           fgColor="gray"
           bgColor="transparent"
         />

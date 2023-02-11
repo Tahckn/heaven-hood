@@ -6,15 +6,22 @@
         "image":"/img/oguzhan.jpg",
         "image2":"/img/oguzhan2.png",
         "area":"Game Developer",
+        "github":"oguzhan00yildiz",
         "projects":[
           {
-           "name":"pr1"
+           "name":"Countmaster",
+           "image":"/img/project-osman.jpg",
+           "link":"https://github.com/oguzhan00yildiz/Count-Masters--Stickman-Game"
           },
           {
-           "name":"pr2"
+           "name":"Atlas",
+           "image":"/img/atlas.jpg",
+           "link":"https://github.com/oguzhan00yildiz/Atlas-2D-Tower-Build-Mobile-Game"
           },
           {
-           "name":"pr3"
+           "name":"Starship",
+           "image":"/img/starship.jpg",
+           "link":"https://github.com/oguzhan00yildiz/StarShip-3D-Mobile-Game"
           }
         ]
       }
@@ -26,15 +33,22 @@
         "image":"/img/mansur.jpg",
         "image2":"/img/mansur2.jpeg",  
         "area":"Game Developer",
+        "github":"MansurBesleney",
         "projects":[
           {
-           "name":"pr1"
+           "name":"Countmaster",
+           "image":"/img/project-osman.jpg",
+           "link":"https://github.com/oguzhan00yildiz/Count-Masters--Stickman-Game"
           },
           {
-           "name":"pr2"
+           "name":"Atlas",
+           "image":"/img/atlas.jpg",
+           "link":"https://github.com/oguzhan00yildiz/Atlas-2D-Tower-Build-Mobile-Game"
           },
           {
-           "name":"pr3"
+           "name":"Starship",
+           "image":"/img/starship.jpg",
+           "link":"https://github.com/oguzhan00yildiz/StarShip-3D-Mobile-Game"
           }
         ]
       }
@@ -46,15 +60,22 @@
         "image":"/img/yasin.jpeg",
         "image2":"/img/yasin2.jpg", 
         "area":"Game Artist",
+        "github":"Skyrodalf",
         "projects":[
           {
-           "name":"pr1"
+           "name":"Countmaster",
+           "image":"/img/project-osman.jpg",
+           "link":"https://github.com/oguzhan00yildiz/Count-Masters--Stickman-Game"
           },
           {
-           "name":"pr2"
+           "name":"Atlas",
+           "image":"/img/atlas.jpg",
+           "link":"https://github.com/oguzhan00yildiz/Atlas-2D-Tower-Build-Mobile-Game"
           },
           {
-           "name":"pr3"
+           "name":"Starship",
+           "image":"/img/starship.jpg",
+           "link":"https://github.com/oguzhan00yildiz/StarShip-3D-Mobile-Game"
           }
         ]
       }
