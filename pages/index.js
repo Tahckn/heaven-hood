@@ -24,7 +24,7 @@ const Home = () => {
       <Head>
         <title>Heaven Hood</title>
         <meta name="description" content="Created by Tahckn" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/maskot.ico" />
       </Head>
 
       <Header data={data} />
